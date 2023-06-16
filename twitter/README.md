@@ -7,6 +7,8 @@ and then creates a string from a templated and the selected tweet structure.
 
 It installs a copy handler the overrides ctrl+c if a selected Tweet is found.
 
+![Screenshot](screenshot.png?raw=true "Screenshot")
+
 ## State
 
 The script no longer works due to UI changes and updating it is low priority.
